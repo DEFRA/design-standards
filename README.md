@@ -111,7 +111,7 @@ A user must be able to:
 -   make changes to their cookie settings
 -   use the service without consenting to the use of cookies
 
-[Read the full compliance guidance document](/Cookies-and-similar-technologies)
+[Read the full compliance guidance document](Cookies-and-similar-technologies)
 
 -------------
 
@@ -189,7 +189,7 @@ Maps should be used as visual enhancements of this information for people who ch
 
 Interactive maps should only be used when there is a user need.
 
-[Read the full guidance on working with maps](/Maps)
+[Read the full guidance on working with maps](Maps)
 
 -------------
 
