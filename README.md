@@ -73,10 +73,10 @@ Defra or supporting agency page templates should be used in place of the GOV.uk 
 -   External facing services not hosted on GOV.uk
 
 ![Defra header](/img/main-header.png)
+*Example Defra header*
 
 ![Defra header version 2](/img/small-header.png)
-
-![defra footer](/img/footer.png)
+*Example Defra header*
 
 ### Logo
 

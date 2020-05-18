@@ -23,6 +23,7 @@ A user must be able to:
 -   use the service without consenting to the use of cookies 
 
 ![Cookie consent flow diagram](/img/consent-flow.jpg)
+*Cookie consent flow diagram*
 
 ## Similar Technologies
 
@@ -57,6 +58,7 @@ The settings page must be linked to from the footer allowing users to easily upd
 Radio buttons should be set to "Do not use cookies that measure my website use" until consent is gained.
 
 ![cookie settings page](/img/cookie-settings.png)
+*Cookie settings page example*
 
 [View an example cookie settings page](https://www.gov.uk/help/cookies)
 
@@ -97,9 +99,10 @@ Essential cookies should expire as soon as possible, without impacting the user 
 The expiry time may be reset each time a user interacts with the service, for example moving to the next screen of a journey.
 
 ![Notification banner](/img/notification-banner.jpg)
+*Essential cookies notification banner*
 
-![eessential cookies flow](/img/essential-cookies.jpg)
-
+![essential cookies flow](/img/essential-cookies.jpg)
+*Essential cookies flow diagram*
 
 ## Security
 
