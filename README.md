@@ -40,9 +40,7 @@ All public-facing services should look and feel like part of GOV.UK, so users kn
 Non GOV.uk domains should:
 
 -   not use the 'New Transport' font
-
 -   not use the GOV.uk Header or crown logo
-
 -   not use the GOV.uk footer
 
 ### Font
@@ -66,10 +64,9 @@ Colors should be consistent with GOV.UK. Agency or department colours can be use
 Defra or supporting agency page templates should be used in place of the GOV.uk templates for:
 
 -   Internal facing services (case management systems, intranets etc)
-
 -   External facing services not hosted on GOV.uk
 
-View page templates (coming soon)[ ](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility)
+<!-- View page templates (coming soon)[ ](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility) -->
 
 
 ### Logo
@@ -81,23 +78,14 @@ Organisation logos must be included as an SVG where possible. The crest image it
 Links in the logo must:
 
 -   accept focus
-
 -   be focusable with a keyboard
-
 -   be usable with a keyboard
-
 -   indicate when they have focus
-
 -   change in appearance when touched (in the touch-down state)
-
 -   change in appearance when hovered
-
 -   be usable with touch
-
 -   be usable with [voice commands](https://www.w3.org/WAI/perspectives/voice.html)
-
 -   have visible text
-
 -   have meaningful text
 
 [View the organisation logo component](https://components.publishing.service.gov.uk/component-guide/organisation_logo)
@@ -111,26 +99,19 @@ Links in the logo must:
 To comply with the The Privacy and Electronic Communications Regulations (PECR) you must:
 
 -   tell people if your site uses cookies or similar technologies
-
 -   clearly explain what the cookies do and why
-
 -   not store cookies for longer than is necessary  
-
 -   get a user's explicit consent before storing or retrieving non-essential cookies on their device
-
 -   save a user's consent preferences for 1 year only
-
 -   not store any unique identifiers in the consent preferences cookie
 
 A user must be able to:
 
 -   withdraw consent as easily as they give it
-
 -   make changes to their cookie settings
-
 -   use the service without consenting to the use of cookies
 
-[Read the full compliance guidance document](https://drive.google.com/file/d/1by6PDevF6Lq9hd45wTLB4zDKfWiG_GLo/view?usp=sharing)
+[Read the full compliance guidance document](/Cookies-and-similar-technologies)
 
 -------------
 
@@ -143,17 +124,11 @@ It enables everyone to participate equally, confidently and independently in eve
 Principles of inclusive design:
 
 -   Inclusive -- so everyone can use it safely, easily and with dignity
-
 -   Responsive -- taking account of what people say they need and want
-
 -   Flexible -- so different people can use it in different ways
-
 -   Convenient -- so everyone can use it without too much effort or separation
-
 -   Accommodating for all people, regardless of their age, gender, mobility, ethnicity or circumstances
-
 -   Welcoming -- with no disabling barriers that might exclude some people
-
 -   Realistic -- offering more than one solution to help balance everyone's needs and recognising that one solution may not work for all
 
 -------------
@@ -163,11 +138,8 @@ Principles of inclusive design:
 Making a website or mobile app accessible means making sure it can be used by everyone, including those with:
 
 -   impaired vision
-
 -   motor difficulties
-
 -   cognitive impairments or learning disabilities
-
 -   deafness or impaired hearing
 
 Public Sector Body Accessibility Regulations 2018 became UK law in September 2018 meaning public sector organisations have a legal duty to make sure websites and apps meet accessibility requirements.
@@ -175,11 +147,8 @@ Public Sector Body Accessibility Regulations 2018 became UK law in September 201
 To meet accessibility requirements, digital services must:
 
 -   meet level AA of the  [Web Content Accessibility Guidelines (known as WCAG 2.1)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20)  as a minimum
-
 -   work on the most commonly used [assistive technologies](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies) -- including screen magnifiers, screen readers and speech recognition tools
-
 -   include people with disabilities in [user research](https://www.gov.uk/service-manual/user-research/running-research-sessions-with-people-with-disabilities)
-
 -   publish an accessibility statement that explains how accessible your website or mobile app is
 
 ### WCAG standards
@@ -188,13 +157,10 @@ WCAG stands for Web Content Accessibility Guidelines and is the standard by whic
 
 WCAG 2.1 is an extension to WCAG 2.0. It breaks down into four sections:
 
--   Perceivable
-
--   Operable
-
--   Understandable
-
--   Robust
+-   Perceivable - Information is presented in ways that can be accessed by everyone
+-   Operable - Information is presented in ways that can be operated by everyone
+-   Understandable - Information is presented in ways that can be understood by everyone
+-   Robust - Information is reliable and compatible with assistive technology and standards
 
 Not all accessibility issues can be detected automatically. Manual testing is always required.
 
@@ -205,15 +171,10 @@ Not all accessibility issues can be detected automatically. Manual testing is al
 All public sector websites will need to publish an accessibility statement. The accessibility statement should:
 
 -   list any inaccessible parts of the website or app
-
 -   show how people with access needs can get alternatives to content that's not accessible
-
 -   provide details on who to contact to report accessibility issues
-
 -   provide information on the enforcement procedure if people are not happy with the response
-
 -   be published in a fully accessible form
-
 -   follow a consistent format
 
 [View a sample accessibility statement](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility)
@@ -228,7 +189,7 @@ Maps should be used as visual enhancements of this information for people who ch
 
 Interactive maps should only be used when there is a user need.
 
-[Read the full guidance on working with maps](https://docs.google.com/document/d/10c9JlHTDIgS-lfvQGQz5DdmD737tIWHj6adpYVDNlFs/edit?usp=sharing)
+[Read the full guidance on working with maps](/Maps)
 
 -------------
 
@@ -239,7 +200,7 @@ All essential data and information must be available in non visual formats such 
 
 Charts and graphs should be used as visual enhancements of this information for people who chose to use them.
 
-Read the full guidance on working with maps (coming soon)
+<!-- Read the full guidance on working with maps (coming soon) -->
 
 -------------
 
@@ -253,7 +214,7 @@ Standardisation increases usability and familiarity making sure systems are effi
 
 Any products bought from external suppliers need to meet the [Technology code of practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice)
 
-Read the full guidance on case management systems (coming soon)
+<!-- Read the full guidance on case management systems (coming soon) -->
 
 -------------
 
