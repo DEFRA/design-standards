@@ -1,19 +1,5 @@
 
-Contents:
-
--   [Defra design standards](#design-standards)
--   [Non gov.uk domains](#non-govuk-domains)
--   [cookies and similar technologies](#cookies-and-similar-technologies)
--   [Inclusive design](#inclusive-design)
--   [accessibility](#accessibility)
--   [maps](#maps)
--   [data and charts](#data-visualisation)
--   [internal services](#internal-services)
--   [components & patterns](#components-and-patterns)
-
-* * * * *
-
-# Defra Design standards 
+# Defra design Standards
 
 The Department for Environment, Food & Rural Affairs (Defra) are the UK government department responsible for safeguarding our natural environment, supporting our world-leading food and farming industry, and sustaining a thriving rural economy. 
 
@@ -28,8 +14,24 @@ All Defra's online services must:
 
 -   Be designed based on user needs
 
-Non GOV.uk domains
-------------------
+* * * * *
+
+Contents:
+
+-   [Defra design standards](#design-standards)
+-   [Non gov.uk domains](#non-govuk-domains)
+-   [cookies and similar technologies](#cookies-and-similar-technologies)
+-   [Inclusive design](#inclusive-design)
+-   [accessibility](#accessibility)
+-   [maps](#maps)
+-   [data and charts](#data-visualisation)
+-   [internal services](#internal-services)
+-   [components & patterns](#components-and-patterns)
+
+* * * * *
+
+
+## Non GOV.uk domains
 
 Services and websites hosted on non GOV.uk domain names must still meet the Government [service standard](https://www.gov.uk/service-manual/service-standard).
 
@@ -69,7 +71,6 @@ Defra or supporting agency page templates should be used in place of the GOV.uk 
 
 View page templates (coming soon)[ ](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility)
 
-### Navigation
 
 ### Logo
 
@@ -103,11 +104,9 @@ Links in the logo must:
 
 [View the component CSS](https://github.com/alphagov/govuk_publishing_components/blob/master/app/assets/stylesheets/govuk_publishing_components/components/_organisation-logo.scss)
 
-###
+-------------
 
-* * * * *
-
-### Cookies and similar technologies
+## Cookies and similar technologies
 
 To comply with the The Privacy and Electronic Communications Regulations (PECR) you must:
 
@@ -133,12 +132,9 @@ A user must be able to:
 
 [Read the full compliance guidance document](https://drive.google.com/file/d/1by6PDevF6Lq9hd45wTLB4zDKfWiG_GLo/view?usp=sharing)
 
-###
-
-* * * * *
+-------------
 
 ## Inclusive design
-----------------
 
 All Defra services should be designed to be inclusive. Inclusive design aims to remove the barriers that create undue effort and separation.
 
@@ -160,12 +156,9 @@ Principles of inclusive design:
 
 -   Realistic -- offering more than one solution to help balance everyone's needs and recognising that one solution may not work for all
 
-###
-
-* * * * *
+-------------
 
 ## Accessibility
--------------
 
 Making a website or mobile app accessible means making sure it can be used by everyone, including those with:
 
@@ -225,10 +218,9 @@ All public sector websites will need to publish an accessibility statement. The 
 
 [View a sample accessibility statement](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility)
 
-* * * * *
+-------------
 
 ## Maps 
------
 
 All essential geographic information must be available in non visual formats such as text or lists.
 
@@ -238,10 +230,10 @@ Interactive maps should only be used when there is a user need.
 
 [Read the full guidance on working with maps](https://docs.google.com/document/d/10c9JlHTDIgS-lfvQGQz5DdmD737tIWHj6adpYVDNlFs/edit?usp=sharing)
 
-* * * * *
+-------------
 
 ## Data visualisation
-------------------
+
 
 All essential data and information must be available in non visual formats such as text or lists.
 
@@ -252,7 +244,6 @@ Read the full guidance on working with maps (coming soon)
 -------------
 
 ## Internal services
------------------
 
 Internal facing services and case management tools need to be consistent across Defra.
 
@@ -267,7 +258,6 @@ Read the full guidance on case management systems (coming soon)
 -------------
 
 ## Components and patterns
------------------------
 
 Design patterns solve the common problems so teams can focus on the things unique to their service and it's users.
 
