@@ -1,33 +1,24 @@
 
 Contents:
 
--   [Defra design standards](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.70q5nvq3w9ui)
-
--   [Non gov.uk domains](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.atq9x9wuwssd)
-
--   [cookies and similar technologies](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.jcv1sav4jhvx)
-
--   [Inclusive design](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.sr2mdn9oe5az)
-
--   [accessibility](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.9tg504e9mbrr)
-
--   [maps](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.8ao2r99lo0ey)
-
--   [data and charts](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.dnzgd8v961u5)
-
--   [internal services](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.8zr83o4fd9lx)
-
--   [components & patterns](https://docs.google.com/document/d/1LWxX79A1GYJew7M7SaG8U45END9AR3NCHBgJ1Atat6A/edit#bookmark=id.tnne7cb60ver)
+-   [Defra design standards](#design-standards)
+-   [Non gov.uk domains](#non-govuk-domains)
+-   [cookies and similar technologies](#cookies-and-similar-technologies)
+-   [Inclusive design](#inclusive-design)
+-   [accessibility](#accessibility)
+-   [maps](#maps)
+-   [data and charts](#data-visualisation)
+-   [internal services](#internal-services)
+-   [components & patterns](#components-and-patterns)
 
 * * * * *
 
+# Defra Design standards 
+
 The Department for Environment, Food & Rural Affairs (Defra) are the UK government department responsible for safeguarding our natural environment, supporting our world-leading food and farming industry, and sustaining a thriving rural economy. 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Defra services are designed to meet user needs and to protect the environment.
 
-Design standards 
------------------
 
 All Defra's online services must:
 
@@ -60,39 +51,13 @@ Use the Helvetica or Arial CSS font stacks.
 
 Colors should be consistent with GOV.UK. Agency or department colours can be used sparingly for example in headers or navigation.
 
-|
+| Department         |          |                    |                       |
+|--------------------|----------|--------------------|-----------------------|
+| Defra              | \#00a33b | rgb\(0, 163, 59\); | hsl\(142, 100%, 32%\) |
+| Environment Agency |          |                    |                       |
+| Natural England    |          |                    |                       |
+|                    |          |                    |                       |
 
-Defra
-
- |
-
-#00a33b
-
- |
-
-rgb(0, 163, 59);
-
- |
-
-hsl(142, 100%, 32%)
-
- |
-|
-
-Environment Agency
-
- |\
- |\
- |\
- |
-|
-
-Natural England
-
- |\
- |\
- |\
- |
 
 ### Header and Footer
 
@@ -172,7 +137,7 @@ A user must be able to:
 
 * * * * *
 
-Inclusive design
+## Inclusive design
 ----------------
 
 All Defra services should be designed to be inclusive. Inclusive design aims to remove the barriers that create undue effort and separation.
@@ -199,7 +164,7 @@ Principles of inclusive design:
 
 * * * * *
 
-Accessibility
+## Accessibility
 -------------
 
 Making a website or mobile app accessible means making sure it can be used by everyone, including those with:
@@ -262,7 +227,7 @@ All public sector websites will need to publish an accessibility statement. The 
 
 * * * * *
 
-Maps 
+## Maps 
 -----
 
 All essential geographic information must be available in non visual formats such as text or lists.
@@ -275,7 +240,7 @@ Interactive maps should only be used when there is a user need.
 
 * * * * *
 
-Data visualisation
+## Data visualisation
 ------------------
 
 All essential data and information must be available in non visual formats such as text or lists.
@@ -284,11 +249,9 @@ Charts and graphs should be used as visual enhancements of this information for 
 
 Read the full guidance on working with maps (coming soon)
 
-* * * * *
-
 -------------
 
-Internal services
+## Internal services
 -----------------
 
 Internal facing services and case management tools need to be consistent across Defra.
@@ -301,11 +264,9 @@ Any products bought from external suppliers need to meet the [Technology code of
 
 Read the full guidance on case management systems (coming soon)
 
-* * * * *
-
 -------------
 
-Components and patterns
+## Components and patterns
 -----------------------
 
 Design patterns solve the common problems so teams can focus on the things unique to their service and it's users.
@@ -356,7 +317,7 @@ To do this add a class to the component with a Defra namespace.
 
 </button>
 
-``` 
+```
 
 ### New components
 
