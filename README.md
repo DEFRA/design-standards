@@ -111,7 +111,7 @@ A user must be able to:
 -   make changes to their cookie settings
 -   use the service without consenting to the use of cookies
 
-[Read the full compliance guidance document](/Cookies-and-similar-technologies.nd)
+[Read the full compliance guidance document](/Cookies-and-similar-technologies.md)
 
 -------------
 
