@@ -72,8 +72,11 @@ Defra or supporting agency page templates should be used in place of the GOV.uk 
 -   Internal facing services (case management systems, intranets etc)
 -   External facing services not hosted on GOV.uk
 
-<!-- View page templates (coming soon)[ ](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility) -->
+![Defra header](/img/main-header.png)
 
+![Defra header version 2](/img/small-header.png)
+
+![defra footer](/img/footer.png)
 
 ### Logo
 
