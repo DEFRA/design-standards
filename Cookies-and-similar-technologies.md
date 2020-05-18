@@ -94,9 +94,10 @@ Essential cookies should expire as soon as possible, without impacting the user 
 
 The expiry time may be reset each time a user interacts with the service, for example moving to the next screen of a journey.
 
+![](/img/notification-banner.jpg)
+
 ![](/img/essential-cookies.jpg)
 
-![](/img/notification-banner.jpg)
 
 ## Security
 
