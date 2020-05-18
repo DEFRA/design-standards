@@ -56,7 +56,7 @@ The settings page must be linked to from the footer allowing users to easily upd
 
 Radio buttons should be set to "Do not use cookies that measure my website use" until consent is gained.
 
-![cookie settings page](/img/cookie-settings.jpg)
+![cookie settings page](/img/cookie-settings.png)
 
 [View an example cookie settings page](https://www.gov.uk/help/cookies)
 
