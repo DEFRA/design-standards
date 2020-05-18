@@ -49,15 +49,21 @@ Use the Helvetica or Arial CSS font stacks.
 
 ### Colour
 
-Colors should be consistent with GOV.UK. Agency or department colours can be used sparingly for example in headers or navigation.
+Colors should be consistent with the [GOV.UK front end kit](https://design-system.service.gov.uk/styles/colour/). 
+
+Agency or department colours can be used sparingly for example in headers or navigation.
+
+You must make sure that the contrast ratio of text and interactive elements in
+your service meets [level AA of the Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/TR/WCAG21/#contrast-minimum).
 
 | Department         |          |                    |                       |
 |--------------------|----------|--------------------|-----------------------|
-| Defra              | \#00a33b | rgb\(0, 163, 59\); | hsl\(142, 100%, 32%\) |
-| Environment Agency |          |                    |                       |
-| Natural England    |          |                    |                       |
-|                    |          |                    |                       |
-
+| Defra              | \#00a33b | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
+| Environment Agency | \#009E43 | rgb\(0, 158, 67\)  | hsl\(145, 100%, 31%\) |
+| Natural England    | \#00AB52 | rgb\(0, 173, 84\)  | hsl\(149, 100%, 34%\) |
+| APHA               | \#00a33b | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
+| MMO                | \#00a33b | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
+| RPA                | \#00a33b | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
 
 ### Header and Footer
 
