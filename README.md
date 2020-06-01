@@ -1,7 +1,7 @@
 
-# Defra design Standards
+# Defra design standards
 
-The Department for Environment, Food & Rural Affairs (Defra) are the UK government department responsible for safeguarding our natural environment, supporting our world-leading food and farming industry, and sustaining a thriving rural economy. 
+The Department for Environment, Food & Rural Affairs (Defra) is the UK government department responsible for safeguarding our natural environment, supporting our world-leading food and farming industry and sustaining a thriving rural economy. 
 
 Defra services are designed to meet user needs and to protect the environment.
 
@@ -19,29 +19,29 @@ All Defra's online services must:
 Contents:
 
 -   [Defra design standards](#design-standards)
--   [Non gov.uk domains](#non-govuk-domains)
+-   [non-GOV.UK domains](#non-govuk-domains)
 -   [cookies and similar technologies](#cookies-and-similar-technologies)
--   [Inclusive design](#inclusive-design)
+-   [inclusive design](#inclusive-design)
 -   [accessibility](#accessibility)
 -   [maps](#maps)
 -   [data and charts](#data-visualisation)
 -   [internal services](#internal-services)
--   [components & patterns](#components-and-patterns)
+-   [components and patterns](#components-and-patterns)
 
 * * * * *
 
 
-## Non GOV.uk domains
+## Non-GOV.UK domains
 
-Services and websites hosted on non GOV.uk domain names must still meet the Government [service standard](https://www.gov.uk/service-manual/service-standard).
+Services and websites hosted on non-GOV.UK domain names must still meet the government [service standard](https://www.gov.uk/service-manual/service-standard).
 
 All public-facing services should look and feel like part of GOV.UK, so users know they're in the right place.
 
-Non GOV.uk domains should:
+Non-GOV.UK domains should not use the:
 
--   not use the 'New Transport' font
--   not use the GOV.uk Header or crown logo
--   not use the GOV.uk footer
+-   'New Transport' font
+-   GOV.UK Header or crown logo
+-   GOV.UK footer
 
 ### Font
 
@@ -49,9 +49,9 @@ Use the Helvetica or Arial CSS font stacks.
 
 ### Colour
 
-Colors should be consistent with the [GOV.UK front end kit](https://design-system.service.gov.uk/styles/colour/). 
+Colours should be consistent with the [GOV.UK front end kit](https://design-system.service.gov.uk/styles/colour/). 
 
-Agency or department colours can be used sparingly for example in headers or navigation.
+Agency or department colours can be used sparingly, for example in headers or navigation.
 
 You must make sure that the contrast ratio of text and interactive elements in
 your service meets [level AA of the Web Content Accessibility Guidelines (WCAG 2.1)](https://www.w3.org/TR/WCAG21/#contrast-minimum).
@@ -67,10 +67,10 @@ your service meets [level AA of the Web Content Accessibility Guidelines (WCAG 2
 
 ### Header and Footer
 
-Defra or supporting agency page templates should be used in place of the GOV.uk templates for:
+Defra or supporting agency page templates should be used in place of the GOV.UK templates for:
 
--   Internal facing services (case management systems, intranets etc)
--   External facing services not hosted on GOV.uk
+-   internal facing services (case management systems, intranets etc)
+-   external facing services not hosted on GOV.UK
 
 ![Defra header](/img/main-header.png)
 *Example Defra header*
@@ -105,7 +105,7 @@ Links in the logo must:
 
 ## Cookies and similar technologies
 
-To comply with the The Privacy and Electronic Communications Regulations (PECR) you must:
+To comply with the Privacy and Electronic Communications Regulations (PECR) you must:
 
 -   tell people if your site uses cookies or similar technologies
 -   clearly explain what the cookies do and why
@@ -126,19 +126,19 @@ A user must be able to:
 
 ## Inclusive design
 
-All Defra services should be designed to be inclusive. Inclusive design aims to remove the barriers that create undue effort and separation.
+All Defra services must be designed to be inclusive. Inclusive design aims to remove barriers that create extra effort for some groups of users.
 
-It enables everyone to participate equally, confidently and independently in everyday activities.
+In general, inclusive design lets everyone participate equally, confidently and independently in everyday activities.
 
 Principles of inclusive design:
 
--   Inclusive -- so everyone can use it safely, easily and with dignity
--   Responsive -- taking account of what people say they need and want
--   Flexible -- so different people can use it in different ways
--   Convenient -- so everyone can use it without too much effort or separation
--   Accommodating for all people, regardless of their age, gender, mobility, ethnicity or circumstances
--   Welcoming -- with no disabling barriers that might exclude some people
--   Realistic -- offering more than one solution to help balance everyone's needs and recognising that one solution may not work for all
+-   inclusive -- so everyone can use it safely, easily and with dignity
+-   responsive -- taking account of what people say they need and want
+-   flexible -- so different people can use it in different ways
+-   convenient -- so everyone can use it without too much effort or separation
+-   accommodating for all people, regardless of their age, gender, mobility, ethnicity or circumstances
+-   welcoming -- with no disabling barriers that might exclude some people
+-   realistic -- offering more than one solution to help balance everyone's needs and recognising that one solution may not work for all
 
 -------------
 
@@ -151,7 +151,7 @@ Making a website or mobile app accessible means making sure it can be used by ev
 -   cognitive impairments or learning disabilities
 -   deafness or impaired hearing
 
-Public Sector Body Accessibility Regulations 2018 became UK law in September 2018 meaning public sector organisations have a legal duty to make sure websites and apps meet accessibility requirements.
+[Public Sector Body Accessibility Regulations 2018](http://www.legislation.gov.uk/uksi/2018/852/contents/made) became UK law in September 2018, meaning public sector organisations have a legal duty to make sure websites and apps meet accessibility requirements.
 
 To meet accessibility requirements, digital services must:
 
@@ -164,14 +164,14 @@ To meet accessibility requirements, digital services must:
 
 WCAG stands for Web Content Accessibility Guidelines and is the standard by which accessibility is measured regardless of whether the digital service is a website, product or app.
 
-WCAG 2.1 is an extension to WCAG 2.0. It breaks down into four sections:
+WCAG 2.1 is an extension to WCAG 2.0. To be accessible, the guidelines say, content must be:
 
--   Perceivable - Information is presented in ways that can be accessed by everyone
--   Operable - Information is presented in ways that can be operated by everyone
--   Understandable - Information is presented in ways that can be understood by everyone
--   Robust - Information is reliable and compatible with assistive technology and standards
+-   perceivable - designed in ways that can be accessed by everyone
+-   Operable - designed in ways that can be operated by everyone
+-   Understandable - designed in ways that can be understood by everyone
+-   Robust - reliable and compatible with assistive technology and standards
 
-Not all accessibility issues can be detected automatically. Manual testing is always required.
+Not all accessibility issues can be detected automatically. Manual testing is always needed.
 
 [View the Defra accessibility checklist](https://drive.google.com/file/d/1I9l_ImXjJMpR3tZY-1lN63Rub6SK2tdq/view?usp=sharing)[ ](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility)
 
@@ -183,7 +183,7 @@ All public sector websites will need to publish an accessibility statement. The 
 -   show how people with access needs can get alternatives to content that's not accessible
 -   provide details on who to contact to report accessibility issues
 -   provide information on the enforcement procedure if people are not happy with the response
--   be published in a fully accessible form
+-   be published in a fully accessible form and comply with the [GOV.UK style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 -   follow a consistent format
 
 [View a sample accessibility statement](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility)
@@ -217,7 +217,7 @@ Charts and graphs should be used as visual enhancements of this information for 
 
 Internal facing services and case management tools need to be consistent across Defra.
 
-Standardisation increases usability and familiarity making sure systems are efficient, easy to use and accessible. 
+Standardisation increases usability and familiarity, making systems more efficient, easy to use and accessible. 
 
 ### Procurement
 
@@ -229,9 +229,9 @@ Any products bought from external suppliers need to meet the [Technology code of
 
 ## Components and patterns
 
-Design patterns solve the common problems so teams can focus on the things unique to their service and it's users.
+Design patterns solve common problems so teams can focus on the things unique to their service and its users.
 
-Check the [GOV.UK Design System](https://design-system.service.gov.uk/) to see if the component or pattern you need is already being used across government.
+Check the [GOV.UK Design System](https://design-system.service.gov.uk/) to see if the component or pattern you need is already being in government.
 
 If you cannot find what you need in the GOV.UK Design System you can:
 
@@ -281,7 +281,7 @@ To do this add a class to the component with a Defra namespace.
 
 ### New components
 
-To create a new pattern use a Defra namespace to avoid issues with CSS inheritance.
+To create a new pattern, use a Defra namespace to avoid issues with CSS inheritance.
 
 ```
 
