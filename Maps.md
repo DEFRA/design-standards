@@ -28,7 +28,7 @@ If you users do need a map you need to determine if the map needs to be:
 
 -   Static
 -   Interactive (zoom, layers, key etc)
--   User driven (shape tools, selecting areas etc)Level 3 - draw shapes etc?
+-   User driven (shape tools, selecting areas etc)
 
 All maps should:
 
