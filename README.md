@@ -58,12 +58,12 @@ your service meets [level AA of the Web Content Accessibility Guidelines (WCAG 2
 
 | Department         |          |                    |                       |
 |--------------------|----------|--------------------|-----------------------|
-| Defra              | \#00a33b | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
+| Defra              | \#008938 | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
 | Environment Agency | \#009E43 | rgb\(0, 158, 67\)  | hsl\(145, 100%, 31%\) |
 | Natural England    | \#00AB52 | rgb\(0, 173, 84\)  | hsl\(149, 100%, 34%\) |
-| APHA               | \#00a33b | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
-| MMO                | \#00a33b | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
-| RPA                | \#00a33b | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
+| APHA               | \#008938 | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
+| MMO                | \#008938 | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
+| RPA                | \#008938 | rgb\(0, 163, 59\)  | hsl\(142, 100%, 32%\) |
 
 ### Header and Footer
 
