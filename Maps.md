@@ -80,7 +80,7 @@ A user needs to:
 
 -------------
 
-##mMobile/Touch
+## Mobile/Touch
 
 In May 2020 59% of all government website traffic was on mobile. [View the latest Government device statistics](https://www.gov.uk/performance/site-activity/device-type).
 
