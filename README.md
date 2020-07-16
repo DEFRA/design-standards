@@ -164,16 +164,21 @@ To meet accessibility requirements, digital services must:
 
 WCAG stands for Web Content Accessibility Guidelines and is the standard by which accessibility is measured regardless of whether the digital service is a website, product or app.
 
-WCAG 2.1 is an extension to WCAG 2.0. To be accessible, the guidelines say, content must be:
+WCAG 2.1 is an extension to WCAG 2.0. To be accessible, the guidelines say, services must be:
 
 -   perceivable - designed in ways that can be accessed by everyone
 -   Operable - designed in ways that can be operated by everyone
 -   Understandable - designed in ways that can be understood by everyone
 -   Robust - reliable and compatible with assistive technology and standards
 
-Not all accessibility issues can be detected automatically. Manual testing is always needed.
+### Testing a service
+
+All services must be manually tested against the WCAG 2.1 criteria.
 
 [View the Defra accessibility checklist](https://drive.google.com/file/d/1I9l_ImXjJMpR3tZY-1lN63Rub6SK2tdq/view?usp=sharing)[ ](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility)
+
+Automated tools are available but tools alone are not able to to identify all accessibility issues. See the GDS accessibility team’s [audit of the most used accessibility tools](https://alphagov.github.io/accessibility-tool-audit/).
+
 
 ### Accessibility statements
 
@@ -187,6 +192,24 @@ All public sector websites will need to publish an accessibility statement. The 
 -   follow a consistent format
 
 [View a sample accessibility statement](https://www.gov.uk/government/publications/sample-accessibility-statement/sample-accessibility-statement-for-a-fictional-public-sector-website#technical-information-about-this-websites-accessibility)
+
+
+###  Testing with assistive technologies
+
+All Defra services must work with common assistive technologies.
+
+This means:
+
+* testing with assistive technology 
+
+* finding user research participants who use assistive technology
+
+* asking for assistive technology testing to be included in your accessiblity audit
+
+
+### Getting an accessibility audit
+
+You must get an [accessibility audit](https://www.gov.uk/service-manual/helping-people-to-use-your-service/getting-an-accessibility-audit) and fix any issues before a service can move into public beta.  
 
 -------------
 
