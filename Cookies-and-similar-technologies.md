@@ -43,9 +43,8 @@ The user must be clear that by taking an action they are giving consent for you 
 
 A cookie banner must not attempt to influence a user's decision.
 
-View the [Cookie banner component](https://components.publishing.service.gov.uk/component-guide/cookie_banner)
+View the [Cookie banner component](https://design-system.service.gov.uk/components/cookie-banner/)
 
-View the [page template which pulls in the banners](https://github.com/alphagov/static/blob/54706a6eddcf71e2d6cd36b3239798293530d4e6/app/views/layouts/govuk_template.html.erb#L50).
 
 ## Notification banner
 
@@ -62,9 +61,9 @@ Radio buttons should be set to "Do not use cookies that measure my website use" 
 
 [View an example cookie settings page](https://www.gov.uk/help/cookies)
 
-## Cookie details
+## Cookies page
 
-The cookie detail page must clearly explain what cookies do and why they are being used.
+The cookies page must clearly explain what cookies do and why they are being used.
 
 The user must have clear information on all the cookies used including:
 
@@ -76,7 +75,7 @@ The user must have clear information on all the cookies used including:
 
 The details page must have a clear link to the cookie settings page.
 
-[View an example cookie details page](https://www.gov.uk/help/cookie-details)
+[View the cookies page pattern](https://design-system.service.gov.uk/patterns/cookies-page/)
 
 ## Essential or strictly-necessary cookies
 
