@@ -92,7 +92,7 @@ Essential cookies can be used to: 
 
 -   distribute load across a number of servers
 
-Users must still be notified of the cookie's existence with a notification banner.
+Users must still be notified of the cookie's existence with a [notification banner](https://design-system.service.gov.uk/components/cookie-banner/#if-you-re-only-using-essential-cookies).
 
 Users must still be able to find out more information on the cookies used in a cookie information page.
 
@@ -100,11 +100,7 @@ Essential cookies should expire as soon as possible, without impacting the user 
 
 The expiry time may be reset each time a user interacts with the service, for example moving to the next screen of a journey.
 
-![Notification banner](/img/notification-banner.jpg)
-*Essential cookies notification banner*
 
-![essential cookies flow](/img/essential-cookies.jpg)
-*Essential cookies flow diagram*
 
 ## Security
 
