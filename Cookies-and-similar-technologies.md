@@ -51,7 +51,7 @@ View the [Cookie banner component](https://design-system.service.gov.uk/componen
 The user must be notified that their chosen settings have been saved. The banner should link to the cookie settings page.
 
 
-View the [Notification banner component](https://design-system.service.gov.uk/components/cookie-banner/)
+View the [Notification banner component](https://design-system.service.gov.uk/components/cookie-banner/#When-the-user-accepts-or-rejects-cookies-using-the-cookie-banner)
 
 ## Cookie settings
 
