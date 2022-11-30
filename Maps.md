@@ -19,6 +19,12 @@ Contents:
 
 ## Before you start
 
+All essential geographic information must be available in non visual formats such as text or lists.
+
+Maps should be used as visual enhancements of this information for people who choose to use them.
+
+Interactive maps should only be used when there is a user need.
+
 Before you start designing a map you must:
 
 -   Carry out user research without a map to find out if one is needed
